@@ -82,5 +82,5 @@
 
 ![martinhlw streak](https://github-readme-streak-stats.herokuapp.com/?user=martinhlw&theme=dark)
 ![martinhlw top languages](https://github-readme-stats.vercel.app/api/top-langs?username=martinhlw&show_icons=true&locale=en&layout=compact&theme=dark)   
-![snake animation](https://github.com/<martinhlw>/<martinhlw>/blob/output/github-contribution-grid-snake2.svg)
+
 
