@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead">
+</p>
+
 <h1 align="center">Hi 👋, I'm Martin Halawa</h1>
 <h3 align="center">A passionate computer science student who is determined to deepen knowledge in the field of technology.</h3>
 
