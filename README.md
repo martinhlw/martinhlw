@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead">
+  <img src="https://media.tenor.com/iU4Rs94uo4oAAAAM/pdip.gif" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm Martin Halawa</h1>
@@ -15,11 +15,8 @@
 
 - 📫 How to reach me **martinhalawa12345@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/martinhalawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinhalawa" height="30" width="40" /></a>
-<a href="https://instagram.com/martinhlw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martinhlw_" height="30" width="40" /></a>
-</p>
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/martinhlw_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/martinhalawa) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
