@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Fullstack JavaScript**
 
-- 👯 I’m looking to collaborate on **Capstone Bangkit**
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **martinhalawa12345@gmail.com**
